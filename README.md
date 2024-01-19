@@ -14,3 +14,6 @@ require('lazy').setup {
 ```
 
 
+### Mappings
+
+- `<leader>ln` - Open a new buffer from Leetcode problem URL
