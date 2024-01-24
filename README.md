@@ -17,3 +17,4 @@ require('lazy').setup {
 ### Mappings
 
 - `<leader>ln` - Open a new buffer from Leetcode problem URL
+- `<leader>lr` - Open a new buffer with a randomized MEDIUM problem
